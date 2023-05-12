@@ -28,8 +28,8 @@ const (
 // ConfusableEntry defines a parsed entry from a confusable mapping file.
 type ConfusableEntry struct {
 	Description Description
-	Source      rune
 	Target      string
+	Source      rune
 }
 
 // Confusables provides functions for identifying words that appear to be similar but use different characters.
