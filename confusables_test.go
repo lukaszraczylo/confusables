@@ -3,7 +3,7 @@ package confusables_test
 import (
 	"testing"
 
-	"github.com/eskriett/confusables"
+	"github.com/lukaszraczylo/confusables"
 	"github.com/stretchr/testify/assert"
 )
 

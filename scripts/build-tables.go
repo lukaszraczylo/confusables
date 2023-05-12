@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"text/template"
 
-	utils "github.com/eskriett/confusables"
+	utils "github.com/lukaszraczylo/confusables"
 )
 
 var errDownload = errors.New("unable to download confusables")
